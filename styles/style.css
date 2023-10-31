@@ -1,4 +1,7 @@
-
+.responsive {
+  width: 100%;
+  height: auto;
+}
 /*-------------------------------------
  * customize material design icon sizes 
  *-------------------------------------
